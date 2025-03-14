@@ -1,0 +1,14 @@
+/target/classes/com/gestaoestoque/model/Fornecedor.class
+/target/classes/com/gestaoestoque/model/Produto.class
+/target/classes/com/gestaoestoque/repository/FornecedorRepository.class
+/target/classes/com/gestaoestoque/repository/ProdutoRepository.class
+/target/classes/com/gestaoestoque/service/FornecedorService.class
+/target/classes/com/gestaoestoque/service/ProdutoService.class
+/target/classes/com/gestaoestoque/GestaoEstoqueApplication.class
+/target/classes/application.properties
+/target/maven-archiver/pom.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/gestao-estoque-1.0.0.jar
+/target/gestao-estoque-1.0.0.jar.original
+/untitled/.idea/workspace.xml
